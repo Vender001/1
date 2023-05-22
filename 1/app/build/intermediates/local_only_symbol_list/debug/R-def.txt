@@ -1,0 +1,35 @@
+R_DEF: Internal format may change without notice
+local
+color black
+color blue_700
+color bluee
+color green
+color grey
+color purple_200
+color teal
+color teal_200
+color teal_700
+color white
+drawable ic_launcher_background
+drawable ic_launcher_foreground
+drawable image1
+drawable image2
+drawable image3
+id button1
+id button2
+id button3
+id imageView1
+id imageView2
+id imageView3
+id textView2
+id textView4
+id textView5
+id textView9
+layout main_activity
+layout second_activity
+mipmap ic_launcher
+mipmap ic_launcher_round
+string app_name
+style Theme.Lab1
+xml backup_rules
+xml data_extraction_rules

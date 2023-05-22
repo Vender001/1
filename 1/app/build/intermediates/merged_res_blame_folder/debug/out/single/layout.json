@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "com.example.Lab1.app-mergeDebugResources-28:/layout/main_activity.xml",
+        "source": "com.example.Lab1.app-main-31:/layout/main_activity.xml"
+    },
+    {
+        "merged": "com.example.Lab1.app-mergeDebugResources-28:/layout/second_activity.xml",
+        "source": "com.example.Lab1.app-main-31:/layout/second_activity.xml"
+    }
+]

@@ -9,7 +9,7 @@
         android:id="@+id/firstFragment"
         android:name="com.example.Lab2.FirstFragment"
         android:label="fragment_first"
-        tools:layout="@layout/first_activity">
+        tools:layout="@layout/fragment_first">
         <action
             android:id="@+id/firstToSecond"
             app:destination="@id/secondFragment" />
@@ -18,7 +18,7 @@
         android:id="@+id/secondFragment"
         android:name="com.example.Lab2.SecondFragment"
         android:label="fragment_second"
-        tools:layout="@layout/second_activity">
+        tools:layout="@layout/fragment_second">
 
 
     </fragment>
